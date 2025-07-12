@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/pandorasite/static/css/main.98c6d59b.css",
-    "main.js": "/pandorasite/static/js/main.d99dc102.js",
+    "main.css": "/pandorasite/static/css/main.790d3721.css",
+    "main.js": "/pandorasite/static/js/main.684febf7.js",
     "static/js/453.fa57d0aa.chunk.js": "/pandorasite/static/js/453.fa57d0aa.chunk.js",
     "static/media/menujoguinho.png": "/pandorasite/static/media/menujoguinho.e8b1a348ccfe5a97d5dd.png",
     "static/media/DynaPuffVariable.ttf": "/pandorasite/static/media/DynaPuffVariable.8e7f33764104f9ee7c07.ttf",
+    "static/media/iconeaclerson.jpg": "/pandorasite/static/media/iconeaclerson.4e1022089911b6e26d21.jpg",
     "index.html": "/pandorasite/index.html",
-    "main.98c6d59b.css.map": "/pandorasite/static/css/main.98c6d59b.css.map",
-    "main.d99dc102.js.map": "/pandorasite/static/js/main.d99dc102.js.map",
+    "main.790d3721.css.map": "/pandorasite/static/css/main.790d3721.css.map",
+    "main.684febf7.js.map": "/pandorasite/static/js/main.684febf7.js.map",
     "453.fa57d0aa.chunk.js.map": "/pandorasite/static/js/453.fa57d0aa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98c6d59b.css",
-    "static/js/main.d99dc102.js"
+    "static/css/main.790d3721.css",
+    "static/js/main.684febf7.js"
   ]
 }
